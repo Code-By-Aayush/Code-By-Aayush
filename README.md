@@ -102,7 +102,3 @@
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Code-By-Aayush">Code-By-Aayush</a></i></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Code-By-Aayush&color=2ea043&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
