@@ -85,7 +85,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Code-By-Aayush&theme=tokyonight&hide_border=true&background=00000000&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Code-By-Aayush&theme=tokyonight&hide_border=true&background=00000000&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" alt="GitHub Streak" />
 </p>
 
 ### 📈 Contribution Graph
