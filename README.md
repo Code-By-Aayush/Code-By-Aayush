@@ -82,12 +82,6 @@
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Code-By-Aayush&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Code-By-Aayush&theme=tokyonight&hide_border=true&background=00000000&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" alt="GitHub Streak" />
-</p>
-
 ### 📈 Contribution Graph
 
 <p align="center">
