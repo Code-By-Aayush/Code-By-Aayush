@@ -45,7 +45,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Code-By-Aayush">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-By-Aayush&theme=github_dark&radius=10" alt="Code-By-Aayush's Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-By-Aayush&bg_color=0D1117&color=A371F7&line=A371F7&point=FFFFFF&area=true&area_color=A371F7&hide_border=true&radius=10" alt="Code-By-Aayush's Activity Graph" width="100%" />
   </a>
 </p>
 <div align="center">
