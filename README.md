@@ -6,7 +6,24 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
+<p align="center">
+  <img
+    src="./assets/life-is-a-dream.gif"
+    width="100%"
+    alt="Life is a Dream - Animated Banner"
+  />
+</p>
+<p align="center">
+  <i>
+    "Life is a dream. Build something worth remembering."
+  </i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/THINK-001F2B?style=flat-square&labelColor=0D1117&color=00F5FF" />
+  <img src="https://img.shields.io/badge/BUILD-001F2B?style=flat-square&labelColor=0D1117&color=A371F7" />
+  <img src="https://img.shields.io/badge/INNOVATE-001F2B?style=flat-square&labelColor=0D1117&color=00FF9C" />
+</p>
 
 ## 📌 About Me
 - 🌱 Currently learning Advanced Python, Data Structures & Algorithms, Generative AI, RAG, and AI Engineering.
