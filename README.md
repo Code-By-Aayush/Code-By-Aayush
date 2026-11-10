@@ -1,12 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Aayush%20Chetan%20Gore&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Python%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Code-By-Aayush">
-    <img src="https://komarev.com/ghpvc/?username=Code-By-Aayush&label=Profile%20views&color=00FFFF&style=flat-square" alt="Code-By-Aayush's profile views" />
-  </a>
-</p>
-
-<p align="center">
   <img
     src="./assets/life-is-a-dream.gif"
     width="100%"
@@ -45,12 +39,14 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Code-By-Aayush">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Code-By-Aayush&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="Code-By-Aayush's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Code-By-Aayush&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="Code-By-Aayush's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=Code-By-Aayush&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Code-By-Aayush's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-By-Aayush&theme=github_dark&radius=10" alt="Code-By-Aayush's Activity Graph" width="100%" />
+  <a href="https://github.com/Code-By-Aayush">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-By-Aayush&theme=github_dark&radius=10" alt="Code-By-Aayush's Activity Graph" width="100%" />
+  </a>
 </p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
@@ -105,7 +101,7 @@
 
 <p align="center">
   <a href="https://github.com/Code-By-Aayush">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Code-By-Aayush&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Code-By-Aayush&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
@@ -132,4 +128,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
