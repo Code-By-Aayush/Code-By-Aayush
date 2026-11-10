@@ -43,11 +43,6 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=Code-By-Aayush&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Code-By-Aayush's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <a href="https://github.com/Code-By-Aayush">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Code-By-Aayush&bg_color=0D1117&color=A371F7&line=A371F7&point=FFFFFF&area=true&area_color=A371F7&hide_border=true&radius=10" alt="Code-By-Aayush's Activity Graph" width="100%" />
-  </a>
-</p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
